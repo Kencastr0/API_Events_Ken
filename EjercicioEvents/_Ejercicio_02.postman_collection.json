@@ -28,7 +28,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"nombre\": \"Concierto Nuevos Talentos\",\n    \"fecha\": \"2024-04-27\",\n    \"ubicacion\":\"Polideportivo Sur\",\n    \"capacidad\": 30\n}",
+					"raw": "{\n    \"nombre\":  \"nombre\": \"Riwi Sports\",\n    \"fecha\": \"2024-04-29\",\n    \"ubicacion\":\"De Moda Outlet\",\n    \"capacidad\": 30\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -94,7 +94,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"nombre\": \"Concierto Nuevos Talentos\",\n    \"fecha\": \"2024-04-29\",\n    \"ubicacion\":\"Polideportivo Sur\",\n    \"capacidad\": 100\n}",
+					"raw": "{\n    \"nombre\": \"Riwi Sports\",\n    \"fecha\": \"2024-04-29\",\n    \"ubicacion\":\"De Moda Outlet\",\n    \"capacidad\": 30\n}",
 					"options": {
 						"raw": {
 							"language": "json"
